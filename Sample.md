@@ -5,5 +5,7 @@ Software mainly Devided into 3 Parts.
 - Waterfall model and Kan-Ban Model
 
 2. Dynamic Requirement
+- FB/Inta and Agile model
 
 3. Tangible Requirement
+- Google/ Prototype model
