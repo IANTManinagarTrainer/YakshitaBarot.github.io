@@ -11,4 +11,4 @@
 - Google/ Prototype model
 
 ## Adding a link
-[Google] (www.google.com)
+[MarkDown CheatSheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
