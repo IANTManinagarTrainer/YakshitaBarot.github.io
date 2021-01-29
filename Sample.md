@@ -1,5 +1,5 @@
 # Devops
-** Software mainly Devided into 3 Parts. **
+*Software mainly Devided into 3 Parts.*
 
 1. Fixed Requirement
 - Waterfall model and Kan-Ban Model
